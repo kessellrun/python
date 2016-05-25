@@ -46,10 +46,14 @@ print all_num
 print "length of hello world string is",len(helloworld)
 print "index number of the letter o is",hello.index("o")
 
-# conditions
+# if condition
 
 test1 = True
 test2 = "false"
 if test1 and test2 == "false":
   print "test worked!"
+  
+# more conditions
+
+
 
